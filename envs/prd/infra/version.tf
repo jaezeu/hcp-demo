@@ -10,7 +10,7 @@ terraform {
     organization = "jazeel-org" #Name of your HCP Org
 
     workspaces {
-      name = "aws-infra-dev" #Name of workspace to use
+      name = "aws-infra-prd" #Name of workspace to use
     }
   }
 }

@@ -1,3 +1,3 @@
 resource "aws_s3_bucket" "name" {
-  bucket = "jaz-hcp-terraform-bucket-prd"  #Test prd workspace2
+  bucket = "jaz-hcp-terraform-bucket-prd"  #
 }
